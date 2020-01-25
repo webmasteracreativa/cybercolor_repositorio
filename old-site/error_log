@@ -1,0 +1,120 @@
+[30-Mar-2019 04:22:41 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[30-Mar-2019 04:22:50 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[04-Apr-2019 12:18:19 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[04-Apr-2019 12:21:13 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[08-Apr-2019 23:57:55 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[08-Apr-2019 23:58:32 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[13-Apr-2019 21:58:42 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[13-Apr-2019 22:00:09 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/cyber/public_html/wp-includes/class-wp-query.php on line 783
+[16-Jul-2019 17:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/xmlrpc.php(29): include('/home/cyber/pub...')
+#6 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 18:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/xmlrpc.php(29): include('/home/cyber/pub...')
+#6 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 19:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 19:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 20:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 20:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 20:22:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 20:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/xmlrpc.php(29): include('/home/cyber/pub...')
+#6 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[16-Jul-2019 21:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cyber/public_html/wp-includes/wp-db.php:1635
+Stack trace:
+#0 /home/cyber/public_html/wp-includes/wp-db.php(658): wpdb->db_connect()
+#1 /home/cyber/public_html/wp-includes/load.php(404): wpdb->__construct('cyber_wp472', 'puF7S2a].9', 'cyber_wp472', 'localhost')
+#2 /home/cyber/public_html/wp-settings.php(107): require_wp_db()
+#3 /home/cyber/public_html/wp-config.php(89): require_once('/home/cyber/pub...')
+#4 /home/cyber/public_html/wp-load.php(37): require_once('/home/cyber/pub...')
+#5 /home/cyber/public_html/wp-blog-header.php(13): require_once('/home/cyber/pub...')
+#6 /home/cyber/public_html/index.php(17): require('/home/cyber/pub...')
+#7 {main}
+  thrown in /home/cyber/public_html/wp-includes/wp-db.php on line 1635
+[10-Oct-2019 17:06:01 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:06:02 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:07:04 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:18:18 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:18:28 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:07 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:07 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:41 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:41 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:57 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:19:57 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:25:48 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:57:54 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 17:58:36 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 19:03:45 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0
+[10-Oct-2019 19:13:22 UTC] PHP Fatal error:  Declaration of ElementorExtras\Core\Settings\General\Manager::get_model_for_css_file(Elementor\CSS_File $css_file) must be compatible with Elementor\Core\Settings\Base\Manager::get_model_for_css_file(Elementor\Core\Files\CSS\Base $css_file) in /home/cyber/public_html/wp-content/plugins/elementor-extras/core/settings/global/manager.php on line 0

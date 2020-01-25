@@ -1,0 +1,111 @@
+footer{
+	.logo-footer{
+		max-width: 200px;
+		width: 100%;
+	}
+	br{
+		display: none;
+	}
+	a{
+		color: white;
+	}
+	ul{
+		list-style: none;
+		display: flex;
+	    flex-wrap: wrap;
+	    flex-direction: column;
+	    justify-content: space-between;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+	.datos{
+		span{
+			display: block;
+		}
+		li{
+			padding-top: 15px;
+			padding-bottom: 15px;
+			@media only screen and (min-width: 768px){
+				padding-top: 0px;
+				padding-bottom: 0px;
+			}
+		}
+	}
+	.redes{
+		a{
+			display: inline-block;
+			padding: 0 10px;
+			&:first-child{
+				padding-left: 0;
+			}
+		}
+		img{
+			width: 100%;
+			max-width: 30px;
+			max-height: 30px;
+		}
+
+	}
+	.ubication{
+		background: url(img/ubication.svg) no-repeat left 20px / 30px;
+		padding-left: 50px;
+		@media only screen and (min-width: 768px){
+			background: url(img/ubication.svg) no-repeat left top / 30px;
+		}
+	}
+	.phone{
+		background: url(img/phone.svg) no-repeat left 20px / 30px;
+		padding-left: 50px;
+		@media only screen and (min-width: 768px){
+			background: url(img/phone.svg) no-repeat left top / 30px;
+		}
+	}
+	.navbar-nav{
+		padding-left: 0; 
+		@media only screen and (min-width: 768px){
+			padding-left: 20px; 
+		}
+		a{
+			padding: 10px;
+			display: block;
+			position: relative;
+			&:hover{
+				color: white;
+				text-decoration: none;
+			}
+			&:before{
+				content: "";
+				display: block;
+				width: 5px;
+				height: 5px;
+				position: absolute;
+				bottom: 15px;
+				left: 0;
+				background: white;
+			}
+		}
+	}
+	.form-footer{
+		input[type="submit"]{
+			max-width: 200px;
+	    	margin-top: 30px;
+	    	border: none;
+		    @media only screen and (min-width: 568px){
+	    		margin-top: 0px; 
+		    }
+		}
+		input{
+			display: inline-block;
+			margin: 0;
+			border: none;
+			box-shadow: 0 0 5px rgba(0,0,0,0.2);
+		    width: 100%;
+		    padding: 10px;
+		    margin-right: -4px;
+		    @media only screen and (min-width: 568px){
+		    	width: 50%;
+		    }
+		}
+	}
+}

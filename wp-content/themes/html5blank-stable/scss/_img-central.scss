@@ -1,0 +1,67 @@
+.img-city{
+	position: relative;
+	img.bg{
+		margin-top: -10%;
+		margin-left: -4px;
+		position: relative;
+		z-index: 2;
+	}
+}
+.nubes{
+	position: absolute;
+	z-index: 3;
+	opacity: 1;
+	animation: float 5s ease-in-out infinite;
+	&1{
+		top:20%;
+		left: 50%;
+		transform: translateY(-20%) translateX(-50%);
+		width: 5%;
+		min-width: 20px;
+	}
+	&2{
+		top:50%;
+		left: 80%;
+		transform: translateY(-80%) translateX(-60%);
+		width: 3%;
+		min-width: 20px;
+	}
+	&3{
+		top:50%;
+		left: 20%;
+		transform: translateY(-20%) translateX(-30%);
+		width: 2%;
+		min-width: 20px;
+	}
+}
+.globo{
+	position: absolute;
+	width: 10%;
+    left: 35%;
+	animation: float 3s ease-in-out infinite;
+	min-width: 30px;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+@keyframes floatnub {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-10px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}

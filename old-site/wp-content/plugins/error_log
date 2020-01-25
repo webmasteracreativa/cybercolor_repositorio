@@ -1,0 +1,8 @@
+[30-Jan-2019 10:42:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cyber/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/plugins/hello.php on line 60
+[17-Sep-2019 14:56:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cyber/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/plugins/hello.php on line 60

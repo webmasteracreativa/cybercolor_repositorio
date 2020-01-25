@@ -1,0 +1,8 @@
+.text-banner{
+	position: relative;
+	padding-top: 40px;
+	@media only screen and (min-width: 768px){
+		padding-top: 0px;
+		margin-top: -4%;
+	}
+}

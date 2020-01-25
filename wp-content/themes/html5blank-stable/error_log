@@ -1,0 +1,40 @@
+[26-Oct-2019 23:35:47 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php on line 1
+[27-Oct-2019 00:22:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php on line 1
+[16-Nov-2019 17:55:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
+[18-Nov-2019 15:11:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
+[14-Dec-2019 01:35:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
+[16-Dec-2019 01:58:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
+[12-Jan-2020 03:46:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
+[12-Jan-2020 11:06:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php on line 1
+[13-Jan-2020 07:36:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/index.php on line 1
+[15-Jan-2020 01:34:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cyber/public_html/wp-content/themes/html5blank-stable/404.php on line 1
